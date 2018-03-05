@@ -3,5 +3,6 @@
 ## Adapted from:
 
 # Set working directory:
+setwd("~/sfuvault/04 Spring 2018/STAT650/Asst5/")
 
 # Load helper functions:
